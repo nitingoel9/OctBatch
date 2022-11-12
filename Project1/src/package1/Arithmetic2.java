@@ -1,4 +1,4 @@
-  (((((10*2)+2)-2)-2)/2)
+//  (((((10*2)+2)-2)-2)/2)
 package package1;
 public class Arithmetic2 
 {
