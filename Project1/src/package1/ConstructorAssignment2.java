@@ -18,7 +18,6 @@ public class ConstructorAssignment2
 		System.out.println("Two Parametrized Constructor");
 	}
 	public ConstructorAssignment2(int a,int b,int c)
-		
 	{
 		this(1);
 		System.out.println("Three Parametrized Constructor");
